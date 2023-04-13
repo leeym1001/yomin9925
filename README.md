@@ -1,6 +1,6 @@
 ### About Me
 
-:computer: Full Stack Developer
+:computer: Backend Developer
 
 :peach:
 
